@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SantanaJ/earlscheib/issues"
   },
-  "homepage": "https://github.com/SantanaJ/earlscheib#readme"
+  "homepage": "https://github.com/SantanaJ/earlscheib#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
